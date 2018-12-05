@@ -9,6 +9,12 @@ Only difference is the use of the PnP yoeman generator instead of the SharePoint
 ## Slides from the session
 <https://www.slideshare.net/goelles/thrive-2018-microsoft-teams-a-developers-perspective>
 
+## More information on Microsoft Teams development
+
+(Teams Developer Documentation)<>
+(Teams Sample Code on GitHub)<https://docs.microsoft.com/en-us/microsoftteams/platform/samples/code-samples>
+
+
 ## Screenshots 
 
 ![SPFx 1.7](https://github.com/thomyg/Demos/blob/master/2018/ThriveConference/thrive-webpart/Slide60.JPG "SPFx 1.7")
