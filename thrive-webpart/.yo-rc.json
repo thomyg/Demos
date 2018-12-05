@@ -1,0 +1,23 @@
+{
+  "@pnp/generator-spfx": {
+    "framework": "none",
+    "pnpFramework": "noframework",
+    "pnp-libraries": [
+      "jquery@3",
+      "@pnp/pnpjs",
+      "@pnp/spfx-property-controls"
+    ]
+  },
+  "@microsoft/generator-sharepoint": {
+    "framework": "none",
+    "plusBeta": true,
+    "isCreatingSolution": true,
+    "environment": "spo",
+    "version": "1.7.0",
+    "libraryName": "thrive-webpart",
+    "libraryId": "62f8f8df-eae8-4928-9ccb-f32228691003",
+    "packageManager": "npm",
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
