@@ -12,7 +12,7 @@ Only difference is the use of the PnP yoeman generator instead of the SharePoint
 ## More information on Microsoft Teams development
 
 (Teams Developer Documentation)<>
-(Teams Sample Code on GitHub)<https://docs.microsoft.com/en-us/microsoftteams/platform/samples/code-samples>
+[Teams Sample Code on GitHub](https://docs.microsoft.com/en-us/microsoftteams/platform/samples/code-samples)
 
 
 ## Screenshots 
