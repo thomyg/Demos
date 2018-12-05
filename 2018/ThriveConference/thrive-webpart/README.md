@@ -7,7 +7,7 @@ Web part was created by following this post <https://docs.microsoft.com/en-us/sh
 Only difference is the use of the PnP yoeman generator instead of the SharePoint default one. Used SPFx version is 1.7.0 --plusbeta
 
 ## Slides from the session
-![Session slides](https://www.slideshare.net/goelles/thrive-2018-microsoft-teams-a-developers-perspective "Session Slides")
+<https://www.slideshare.net/goelles/thrive-2018-microsoft-teams-a-developers-perspective>
 
 ## Screenshots 
 
