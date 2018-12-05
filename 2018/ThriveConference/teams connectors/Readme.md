@@ -10,4 +10,4 @@ Small script to showcase connectors in Microsoft Teams by using PowerShell to hi
 
 ## Expected result
 
-![Result in Teams]()
+![Result in Teams](https://github.com/thomyg/Demos/blob/master/2018/ThriveConference/teams%20connectors/Result.png)
