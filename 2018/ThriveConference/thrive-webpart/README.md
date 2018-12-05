@@ -10,9 +10,12 @@ Only difference is the use of the PnP yoeman generator instead of the SharePoint
 <https://www.slideshare.net/goelles/thrive-2018-microsoft-teams-a-developers-perspective>
 
 ## More information on Microsoft Teams development
-
-(Teams Developer Documentation)<>
-[Teams Sample Code on GitHub](https://docs.microsoft.com/en-us/microsoftteams/platform/samples/code-samples)
+* Play around with [Teams App Studio](https://docs.microsoft.com/en-us/microsoftteams/platform/get-started/get-started-app-studio), [Node.js](https://docs.microsoft.com/en-us/microsoftteams/platform/get-started/get-started-nodejs), and [c#/.NET](https://docs.microsoft.com/en-us/microsoftteams/platform/get-started/get-started-dotnet)
+* Understand [capabilities of the Teams extensible platform](https://docs.microsoft.com/en-us/microsoftteams/platform/concepts/concepts-overview)
+* Use the [Microsoft Graph API](https://developer.microsoft.com/en-us/graph/docs/api-reference/beta/resources/teams_api_overview) to work with Microsoft Teams
+* Learn about new Microsoft Graph API capabilities under the Beta reference for [Teamwork](https://developer.microsoft.com/en-us/graph/docs/api-reference/beta/resources/teams_api_overview) and [Calling/Online Meetings](https://developer.microsoft.com/en-us/graph/docs/api-reference/beta/resources/calls-api-overview)
+* [Teams Developer Documentation](https://developer.microsoft.com/en-us/microsoft-teams)
+* [Teams Sample Code on GitHub](https://docs.microsoft.com/en-us/microsoftteams/platform/samples/code-samples)
 
 
 ## Screenshots 
