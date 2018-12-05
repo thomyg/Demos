@@ -6,3 +6,15 @@ Web part was created by following this post <https://docs.microsoft.com/en-us/sh
 
 Only difference is the use of the PnP yoeman generator instead of the SharePoint default one. Used SPFx version is 1.7.0 --plusbeta
 
+## Screenshots
+
+![SPFx 1.7](https://github.com/thomyg/Demos/blob/master/2018/ThriveConference/thrive-webpart/Slide60.JPG "SPFx 1.7")
+
+![PnP Generator](https://github.com/thomyg/Demos/blob/master/2018/ThriveConference/thrive-webpart/Slide61.JPG "PnP Generator")
+
+![WebPart Soruce](https://github.com/thomyg/Demos/blob/master/2018/ThriveConference/thrive-webpart/Slide62.JPG "WebPart Source")
+
+![WebPart in SharePoint](https://github.com/thomyg/Demos/blob/master/2018/ThriveConference/thrive-webpart/Slide63.JPG "WebPart in SharePoint")
+
+![WebPart in Teams](https://github.com/thomyg/Demos/blob/master/2018/ThriveConference/thrive-webpart/Slide64.JPG "WebPart in Teams")
+
